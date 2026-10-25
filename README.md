@@ -111,3 +111,5 @@ Star the repo if you find it useful!
 **Made for musicians, producers, audio engineers, podcasters, and open-source advocates.**
 
 Let's keep music and audio production powerful, accessible, and free.
+# Awesome-Digital-Audio-Workstation-Daw
+
