@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Audio-Workstation-Daw?style=flat-square&color=green" alt="License" /></a>
@@ -81,9 +81,9 @@ The DAW sector is **moderately fragmented yet anchored by high switching costs a
 
 ## 🔓 Open-Source GitHub Projects
 
-> 📌 *Sorted by GitHub stars (descending). Badges link directly to each project's stargazers page.*
+> 📌 *Sorted by GitHub_Stars (descending). Badges link directly to each project's stargazers page.*
 
-| Project | ⭐ GitHub Stars | 🎧 Primary Focus & Capabilities |
+| Project | ⭐ GitHub_Stars | 🎧 Primary Focus & Capabilities |
 | :--- | :--- | :--- |
 | **[Audacity](https://github.com/audacity/audacity)** | [![Stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers) | World's most popular open-source multitrack audio recorder and waveform editor, built for quick audio surgery, noise suppression, and podcasting. |
 | **[MuseScore](https://github.com/musescore/MuseScore)** | [![Stars](https://img.shields.io/github/stars/musescore/MuseScore?style=social&color=white)](https://github.com/musescore/MuseScore/stargazers) | Open-source music notation and composition studio with realistic Muse Sounds orchestral playback and MIDI/audio export. |
