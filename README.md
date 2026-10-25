@@ -1,7 +1,7 @@
 # Awesome-Digital-Audio-Workstation-Daw
 # Awesome-Digital-Audio-Workstation-Daw
 
-## Top Digital Audio Workstation (DAW)
+### Top Digital Audio Workstation (DAW)
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
 *Focused on Music Production, Audio Recording, Mixing, Editing & Desktop Audio Workstations*
@@ -113,7 +113,7 @@ Star the repo if you find it useful!
 Let's keep music and audio production powerful, accessible, and free.
 # Awesome-Digital-Audio-Workstation-Daw
 
-# Top Digital Audio Workstation (DAW)
+## Top Digital Audio Workstation (DAW)
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
 *Focused on Music Production, Audio Recording, Mixing, Editing & Desktop Audio Workstations*
